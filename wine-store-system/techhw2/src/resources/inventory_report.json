@@ -1,0 +1,209 @@
+[
+  {
+    "Wine Serial": "11-CAT-011",
+    "Wine Name": "Chianti",
+    "Year": "2021",
+    "Price": "24.25",
+    "Sweetness": "Dry",
+    "Quantity": "200",
+    "Storage": "11-Forest View Storage"
+  },
+  {
+    "Wine Serial": "12-CAT-012",
+    "Wine Name": "Moscato",
+    "Year": "2023",
+    "Price": "14.5",
+    "Sweetness": "Sweet",
+    "Quantity": "160",
+    "Storage": "12-Hilltop Storage Facility"
+  },
+  {
+    "Wine Serial": "13-CAT-013",
+    "Wine Name": "Tempranillo",
+    "Year": "2020",
+    "Price": "20.99",
+    "Sweetness": "Medium",
+    "Quantity": "190",
+    "Storage": "13-Lakeside Distribution Hub"
+  },
+  {
+    "Wine Serial": "14-CAT-014",
+    "Wine Name": "Cava",
+    "Year": "2021",
+    "Price": "16.5",
+    "Sweetness": "Semi-Dry",
+    "Quantity": "180",
+    "Storage": "14-Industrial Park Warehouse"
+  },
+  {
+    "Wine Serial": "15-CAT-015",
+    "Wine Name": "Grenache",
+    "Year": "2020",
+    "Price": "22.0",
+    "Sweetness": "Medium",
+    "Quantity": "130",
+    "Storage": "15-Golden Grape Storage"
+  },
+  {
+    "Wine Serial": "16-CAT-016",
+    "Wine Name": "Viognier",
+    "Year": "2023",
+    "Price": "19.25",
+    "Sweetness": "Dry",
+    "Quantity": "210",
+    "Storage": "16-Silver Barrel Depot"
+  },
+  {
+    "Wine Serial": "17-CAT-017",
+    "Wine Name": "Syrah",
+    "Year": "2021",
+    "Price": "24.75",
+    "Sweetness": "Semi-Sweet",
+    "Quantity": "250",
+    "Storage": "17-Vintage Reserve Storage"
+  },
+  {
+    "Wine Serial": "18-CAT-018",
+    "Wine Name": "Champagne",
+    "Year": "2019",
+    "Price": "45.99",
+    "Sweetness": "Dry",
+    "Quantity": "270",
+    "Storage": "18-Vineyard Hill Warehouse"
+  },
+  {
+    "Wine Serial": "19-CAT-019",
+    "Wine Name": "Barolo",
+    "Year": "2018",
+    "Price": "49.5",
+    "Sweetness": "Dry",
+    "Quantity": "310",
+    "Storage": "19-City Central Storage"
+  },
+  {
+    "Wine Serial": "2-20-CAT-020",
+    "Wine Name": "Sancerre",
+    "Year": "2022",
+    "Price": "27.75",
+    "Sweetness": "Medium",
+    "Quantity": "100",
+    "Storage": "1-North Warehouse"
+  },
+  {
+    "Wine Serial": "2-20-CAT-020",
+    "Wine Name": "Sancerre",
+    "Year": "2022",
+    "Price": "27.75",
+    "Sweetness": "Medium",
+    "Quantity": "80",
+    "Storage": "2-East Side Storage"
+  },
+  {
+    "Wine Serial": "2-CAT-002",
+    "Wine Name": "Chardonnay",
+    "Year": "2022",
+    "Price": "19.5",
+    "Sweetness": "Medium",
+    "Quantity": "200",
+    "Storage": "2-East Side Storage"
+  },
+  {
+    "Wine Serial": "2-CAT-026",
+    "Wine Name": "Chardonnay",
+    "Year": "2024",
+    "Price": "45.0",
+    "Sweetness": "Dry",
+    "Quantity": "70",
+    "Storage": "1-North Warehouse"
+  },
+  {
+    "Wine Serial": "20-CAT-028",
+    "Wine Name": "Suave",
+    "Year": "2023",
+    "Price": "120.9",
+    "Sweetness": "Dry",
+    "Quantity": "140",
+    "Storage": "20-Red Rock Distribution Hub"
+  },
+  {
+    "Wine Serial": "20-CAT-081",
+    "Wine Name": "Mente",
+    "Year": "2023",
+    "Price": "125.9",
+    "Sweetness": "Dry",
+    "Quantity": "130",
+    "Storage": "10-Seaside Depot"
+  },
+  {
+    "Wine Serial": "3-CAT-003",
+    "Wine Name": "Merlot",
+    "Year": "2020",
+    "Price": "21.75",
+    "Sweetness": "Semi-Dry",
+    "Quantity": "120",
+    "Storage": "3-West Coast Depot"
+  },
+  {
+    "Wine Serial": "4-CAT-004",
+    "Wine Name": "Pinot Grigio",
+    "Year": "2023",
+    "Price": "18.99",
+    "Sweetness": "Dry",
+    "Quantity": "180",
+    "Storage": "4-Central Cellar"
+  },
+  {
+    "Wine Serial": "5-CAT-005",
+    "Wine Name": "Shiraz",
+    "Year": "2021",
+    "Price": "23.99",
+    "Sweetness": "Semi-Sweet",
+    "Quantity": "300",
+    "Storage": "5-South Distribution Center"
+  },
+  {
+    "Wine Serial": "6-CAT-006",
+    "Wine Name": "Sauvignon Blanc",
+    "Year": "2022",
+    "Price": "20.0",
+    "Sweetness": "Medium",
+    "Quantity": "250",
+    "Storage": "6-Mountain View Storage"
+  },
+  {
+    "Wine Serial": "7-CAT-007",
+    "Wine Name": "london",
+    "Year": "2019",
+    "Price": "26.5",
+    "Sweetness": "Sweet",
+    "Quantity": "170",
+    "Storage": "7-Riverfront Depot"
+  },
+  {
+    "Wine Serial": "7-CAT-070",
+    "Wine Name": "Matua",
+    "Year": "2000",
+    "Price": "70.0",
+    "Sweetness": "Dry",
+    "Quantity": "90",
+    "Storage": "3-West Coast Depot"
+  },
+  {
+    "Wine Serial": "8-CAT-008",
+    "Wine Name": "Riesling",
+    "Year": "2023",
+    "Price": "17.99",
+    "Sweetness": "Sweet",
+    "Quantity": "220",
+    "Storage": "8-Valley Reserve Storage"
+  },
+  {
+    "Wine Serial": "9-CAT-009",
+    "Wine Name": "Malbec",
+    "Year": "2020",
+    "Price": "22.5",
+    "Sweetness": "Semi-Dry",
+    "Quantity": "140",
+    "Storage": "9-Downtown Warehouse"
+  }
+]

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+    <!-- Manufacturers Section -->
+    <Manufacturers>
+        <Manufacturer>
+            <Name>Marona</Name>
+            <Phone>04-9991110</Phone>
+            <Address>59 Mania Rd, City 2</Address>
+            <Email>Marona@gmail.com</Email>
+        </Manufacturer>
+        <Manufacturer>
+            <Name>hello Kalkala</Name>
+            <Phone>04-90909090</Phone>
+            <Address>33 Lon Rd, City 1</Address>
+            <Email>info@Kalkala.com</Email>
+        </Manufacturer>
+    </Manufacturers>
+
+    <!-- Wines Section -->
+    <Wines>
+        <Wine>
+            <CatalogNumber>CAT-070</CatalogNumber>
+            <Name>Matua</Name>
+            <Description>Lightwhite wine</Description>
+            <ProductionYear>2000</ProductionYear>
+            <PricePerBottle>70</PricePerBottle>
+            <SweetnessLevel>Dry</SweetnessLevel>
+            <ProductImage>https://www.Cheers.com/img_Matua.jpg</ProductImage>
+            <ManufacturerID>7</ManufacturerID>
+        </Wine>
+        <Wine>
+            <CatalogNumber>CAT-081</CatalogNumber>
+            <Name>Mente</Name>
+            <Description>Crisp white wine</Description>
+            <ProductionYear>2023</ProductionYear>
+            <PricePerBottle>125.9</PricePerBottle>
+            <SweetnessLevel>Dry</SweetnessLevel>
+            <ProductImage>https://www.Cheers.com/img_Mente.jpg</ProductImage>
+            <ManufacturerID>20</ManufacturerID>
+        </Wine>
+        <Wine>
+            <CatalogNumber>CAT-081</CatalogNumber>
+            <Name>Mente</Name>
+            <Description>Crisp white wine</Description>
+            <ProductionYear>2023</ProductionYear>
+            <PricePerBottle>125.9</PricePerBottle>
+            <SweetnessLevel>Dry</SweetnessLevel>
+            <ProductImage>https://www.Cheers.com/img_Mente.jpg</ProductImage>
+            <ManufacturerID>20</ManufacturerID>
+        </Wine>
+    </Wines>
+</Data>

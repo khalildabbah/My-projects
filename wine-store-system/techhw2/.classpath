@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="net/sf/jasperreports/|resources/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/commons-lang3-3.8.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/hsqldb-2.5.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/jackcess-3.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/ucanaccess-5.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="net.sf.jasperreports.JR_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jasperRudy"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/apacheRudy"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/springRudy"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/digesterRudy"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/beanutilsRudy"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jspRudy"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jasperExtra"/>
+	<classpathentry kind="lib" path="libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/castor-core-1.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/commons-beanutils-core-1.8.3.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/commons-collections4-4.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/commons-collections4-4.4-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/commons-collections4-4.4-tests.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/commons-collections4-4.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/commons-digester-2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/commons-digester-2.1-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-annotations-2.14.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-annotations-2.18.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-annotations-2.18.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-core-2.14.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-core-2.18.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-core-2.18.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-databind-2.14.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-databind-2.18.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-databind-2.18.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-dataformat-xml-2.14.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-dataformat-xml-2.18.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-dataformat-xml-2.18.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-datatype-guava-2.14.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-datatype-json-org-2.14.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-datatype-jsr353-2.14.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-jaxrs-base-2.14.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-jaxrs-json-provider-2.14.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-jaxrs-xml-provider-2.14.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-module-jaxb-annotations-2.14.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jackson-module-jsonSchema-2.14.2.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-annotation-processors-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-ant-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-barbecue-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-barcode4j-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-castor-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-chart-customizers-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-charts-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-chart-themes-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-chrome-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-data-adapters-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-data-adapters-http-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-ejbql-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-ejbql-j2ee-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-excel-poi-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-fastexcel-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-fonts-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-functions-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-google-maps-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-groovy-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-hibernate-j2ee-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-interactivity-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-javascript-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-jaxen-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-jdt-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-json-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-legacy-jrxml-barbecue-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-legacy-jrxml-barcode4j-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-legacy-jrxml-charts-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-legacy-jrxml-core-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-legacy-jrxml-google-maps-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-metadata-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-olap-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-pdf-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-servlets-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-servlets-j2ee-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-sort-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-spring-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-velocity-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jasperreports-xalan-7.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/jfreechart-1.5.5.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/metadata-extractor-2.19.0.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/openpdf-1.3.43.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/openpdf-1.3.43-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/openpdf-1.3.43-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/org.eclipse.jdt.core-3.35.0.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/org.eclipse.jdt.core-3.35.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/spring-beans-5.3.39.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/spring-core-5.3.39.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/spring-expression-5.3.39.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/spring-jcl-5.3.39.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/stax2-api-4.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/woodstox-core-6.5.0.jar"/>
+	<classpathentry kind="lib" path="libs/jasperFull/xmpcore-6.1.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
